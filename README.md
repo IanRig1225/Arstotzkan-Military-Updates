@@ -1,2 +1,2 @@
 # Arstotzkan-Military-Updates
-This is a test for the automated Arstotzkan Military updates.
+This is a test for the automated Arstotzkan Military updates. Update Number One
